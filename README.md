@@ -11,6 +11,4 @@ Começa: 07 novembro 2023<p>
 Finaliza: 22 fevereiro 2024<p>
 Equipe:<p>
 Professores: Alex Rocha Soares<p>
-Tutores:<p>
-Rafaela Santos, 
-Melissa Palermo
+Tutores: Rafaela Santos, Melissa Palermo
